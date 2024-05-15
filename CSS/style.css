@@ -20,7 +20,7 @@ a:any-link {
 /* ! ================ MOBILE / 490 PX ================================ */
 
 
-@media screen and (max-width: 490px){
+@media screen and (min-width: 390px) and (max-width: 490px){
     /* ? ############# Formatações GERAIS ############## */
     a:any-link {
         text-decoration: none;
