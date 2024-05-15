@@ -295,6 +295,7 @@ a:any-link {
         
     }
     .servicos_subtitulo {
+        font-family: var(--fonte-principal);
         font-size: 36px;
         color: var(--azul-principal);
         font-weight: 800;
